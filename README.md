@@ -6,3 +6,5 @@ June 10: realise
 jun 11: fable 4.8 anthropic us e
 jun 13v;: Fable 5 us
 fable working on projects
+jun 15: 
+
