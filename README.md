@@ -7,4 +7,4 @@ jun 11: fable 4.8 anthropic us e
 jun 13v;: Fable 5 test
 june 14: claude fable working on projects
 jun 15: started c++ 
-jun 16 : c++
+jun 16 : c++ CODE
