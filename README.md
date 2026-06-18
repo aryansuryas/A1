@@ -8,4 +8,5 @@ jun 13v;: Fable 5 test
 june 14: claude fable working on projects
 jun 15: started c++ 
 jun 16 : c++ CODE
-jun 17 : dsaaaa
+jun 17 : dsaaa
+jun 18 : cs50
