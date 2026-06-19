@@ -10,3 +10,4 @@ jun 15: started c++
 jun 16 : c++ CODE
 jun 17 : dsaaa
 jun 18 : cs50 no wxtra
+JUN 19 : ddsaa
