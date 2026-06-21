@@ -12,3 +12,4 @@ jun 17 : dsaaa
 jun 18 : cs50 no wxtra
 JUN 19 : ddsaa
 jun 20 cs50
+jun 21c  : 
