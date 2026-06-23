@@ -14,3 +14,4 @@ JUN 19 : ddsaa
 jun 20 cs50
 jun 21c  : 
 jun 22 : cs50 wewoo
+jun 23 ; 10 problems in lkc
