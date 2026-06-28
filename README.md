@@ -468,4 +468,4 @@ Do not jump to hard XOR problems. Finish:
 **191 → 136 → 268 → 231 → 371 → 78 → 421**
 
 These 7 problems build almost the whole bit manipulation foundation.
-nty. top top
+nty. top top ans dla
