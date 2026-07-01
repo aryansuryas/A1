@@ -469,3 +469,4 @@ Do not jump to hard XOR problems. Finish:
 
 These 7 problems build almost the whole bit manipulation foundation.
 nty. top top ans dla
+first all the petals
