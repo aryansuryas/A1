@@ -16,7 +16,7 @@ jun 21c  :
 jun 22 : cs50 wewoo
 jun 23 ; 10 problems in lkc
 jun 24 : x
-jun 25 :offiicali 1month
+jun 25 :offiicali 1monthggh
 I checked the Bit Manipulation roadmap you uploaded. It has **287 problems**, but for mastering Bit Manipulation for DSA interviews you should not do all. Do these **concept-wise in order**. If you complete these, your bit manipulation foundation will be strong. 
 
 # Phase 1 — Bit Basics (Must Do First)
